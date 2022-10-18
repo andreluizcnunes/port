@@ -1,41 +1,39 @@
 * {
-    box-sizing: border-box;
-    margin: 0 !important;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0 !important;
+  padding: 0;
 }
-
 
 /* Fontes */
 
 @font-face {
-    font-family: RobotoMono;
-    src: url(../Fontes/RobotoMono.ttf);
- }
+  font-family: RobotoMono;
+  src: url(../Fontes/RobotoMono.ttf);
+}
 
- @font-face {
-    font-family: KronaOne;
-    src: url(../Fontes/KronaOne.ttf);
- }
+@font-face {
+  font-family: KronaOne;
+  src: url(../Fontes/KronaOne.ttf);
+}
 
- @font-face {
-    font-family: MajorMonoDisplay;
-    src: url(../Fontes/MajorMonoDisplay.ttf);
- }
+@font-face {
+  font-family: MajorMonoDisplay;
+  src: url(../Fontes/MajorMonoDisplay.ttf);
+}
 
- @font-face {
-    font-family: SpaceMono-Bold;
-    src: url(../Fontes/SpaceMono-Bold.ttf);
- }
+@font-face {
+  font-family: SpaceMono-Bold;
+  src: url(../Fontes/SpaceMono-Bold.ttf);
+}
 
- @font-face {
-    font-family: SpaceMono-Regular;
-    src: url(../Fontes/SpaceMono-Regular.ttf);
- }
+@font-face {
+  font-family: SpaceMono-Regular;
+  src: url(../Fontes/SpaceMono-Regular.ttf);
+}
 
-
- @font-face {
-   font-family: Inter-Semibold;
-   src: url(../Fontes/Inter-Semi-Bold.otf);
+@font-face {
+  font-family: Inter-Semibold;
+  src: url(../Fontes/Inter-Semi-Bold.ttf);
 }
 
 /* cores */
@@ -53,19 +51,40 @@
 
 */
 
-.degrade-c {color: #eff0f6;} 
-.degrade-aa{color: #dfe1ec;} 
-.degrade-d {color: #bec3da;}
-.degrade-u {color: #9ea5c7;}
-.degrade-a {color: #7d87b5;}
-.degrade-m {color: #5d69a2;}
-.degrade-o {color: #4a5482;}
-.degrade-r {color: #383f61;}
-.degrade-i {color: #333952;}
-.degrade-mm{color: #1e2137;}
-
-p{
-   color: #fff;
+.color-text {
+  color: #484848;
+}
+.degrade-c {
+  color: #eff0f6;
+}
+.degrade-aa {
+  color: #dfe1ec;
+}
+.degrade-d {
+  color: #bec3da;
+}
+.degrade-u {
+  color: #9ea5c7;
+}
+.degrade-a {
+  color: #7d87b5;
+}
+.degrade-m {
+  color: #5d69a2;
+}
+.degrade-o {
+  color: #4a5482;
+}
+.degrade-r {
+  color: #383f61;
+}
+.degrade-i {
+  color: #333952;
+}
+.degrade-mm {
+  color: #1e2137;
 }
 
-
+p {
+  color: #fff;
+}
