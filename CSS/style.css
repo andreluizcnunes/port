@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+    margin: 0 !important;
+    padding: 0;
+}
+
+
+/* Fontes */
+
+@font-face {
+    font-family: RobotoMono;
+    src: url(../Fontes/RobotoMono.ttf);
+ }
+
+ @font-face {
+    font-family: KronaOne;
+    src: url(../Fontes/KronaOne.ttf);
+ }
+
+ @font-face {
+    font-family: MajorMonoDisplay;
+    src: url(../Fontes/MajorMonoDisplay.ttf);
+ }
+
+ @font-face {
+    font-family: SpaceMono-Bold;
+    src: url(../Fontes/SpaceMono-Bold.ttf);
+ }
+
+ @font-face {
+    font-family: SpaceMono-Regular;
+    src: url(../Fontes/SpaceMono-Regular.ttf);
+ }
+
+
+ @font-face {
+   font-family: Inter-Semibold;
+   src: url(../Fontes/Inter-Semi-Bold.otf);
+}
+
+/* cores */
+
+/* .degrade-c {color: #ECF6F8;} 
+.degrade-aa{color: #DAEDF1;} 
+.degrade-d {color: #B5DCE3;}
+.degrade-u {color: #8FCAD6;}
+.degrade-a {color: #6AB8C8;}
+.degrade-m {color: #45A7BA;}
+.degrade-o {color: #378595;}
+.degrade-r {color: #296470;}
+.degrade-i {color: #1C434A;}
+.degrade-mm{color: #0E2125;}
+
+*/
+
+.degrade-c {color: #eff0f6;} 
+.degrade-aa{color: #dfe1ec;} 
+.degrade-d {color: #bec3da;}
+.degrade-u {color: #9ea5c7;}
+.degrade-a {color: #7d87b5;}
+.degrade-m {color: #5d69a2;}
+.degrade-o {color: #4a5482;}
+.degrade-r {color: #383f61;}
+.degrade-i {color: #333952;}
+.degrade-mm{color: #1e2137;}
+
+p{
+   color: #fff;
+}
+
+
