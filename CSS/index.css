@@ -193,6 +193,7 @@ h2:hover span {
   display: flex;
   flex-direction: column;
   max-width: 1360px;
+  padding: 0.8rem;
   height: 100vh;
   gap: 1.5rem;
 }
@@ -222,6 +223,7 @@ p {
   gap: 1em;
   width: 100%;
 }
+
 .gap-text {
   display: flex;
   flex-direction: column;
