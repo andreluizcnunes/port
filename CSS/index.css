@@ -203,7 +203,7 @@ h2:hover span {
   font-family: 'Inter', sans-serif;
   color: #5d69a2;
   font-weight: bold;
-  margin-top: 2em;
+  margin-top: 1em !important;
   text-align: center;
   letter-spacing: 7px;
   cursor: default;
@@ -216,9 +216,8 @@ p {
 }
 
 .text-sobre {
-  /* list-style: none; */
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
   gap: 1em;
   width: 100%;
